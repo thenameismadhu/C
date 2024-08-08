@@ -1,7 +1,8 @@
 # C
 Daily C program practice code
 
-Basic Pointer Problems
+Basic Pointer Problems:
+
 Pointer Declaration and Initialization: Declare a pointer to an integer and initialize it with the address of an integer variable.
 
 Pointer Dereferencing: Write a program that assigns a value to an integer variable through a pointer.
