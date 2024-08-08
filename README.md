@@ -1,5 +1,6 @@
 # C
 Daily C program practice code
+
 Basic Pointer Problems
 Pointer Declaration and Initialization: Declare a pointer to an integer and initialize it with the address of an integer variable.
 
