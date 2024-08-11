@@ -38,7 +38,7 @@ void freenode(Node* head)
 }
 int main()
 {
-   Node* head=NULL;
+    Node* head=NULL;
     int numOfNode,i;
     printf("Please enter how many number of node you want to create\n");
     scanf("%d",&numOfNode);
